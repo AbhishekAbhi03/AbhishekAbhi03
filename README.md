@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhishekAbhi03
 - 👀 coding...
-- 🌱 I’m currently pursuing cse
+- 🌱 I’m currently pursuing BE
 - 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me:- _abhii_.03 dm me in instagram
 
